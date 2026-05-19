@@ -83,9 +83,9 @@ export default function About() {
             />
 
             <img
-              src="./assets/dev-icon.png"
+              src="./assets/abc.jpeg"
               alt=""
-              className="w-1/4 absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2"
+              className="w-1/3 absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 "
             />
           </div>
         </div>
