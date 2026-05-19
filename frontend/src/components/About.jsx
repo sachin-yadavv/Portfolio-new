@@ -112,6 +112,10 @@ export default function About() {
                   hover:-translate-y-1
                   duration-500
                   dark:hover:bg-darkHover/50
+                  transition-all 
+                bg-white dark:bg-transparent
+                  hover:shadow-[4px_4px_0px_#000]
+                  dark:hover:shadow-[4px_4px_0px_#fff]
                 "
               >
                 <img src={item.icon1} alt="" className="w-7 mt-3 dark:hidden" />
